@@ -1,4 +1,0 @@
-Im making this log to create a log of all commits since my bat file's commit message is just that it commits from a bat file
-
-10/28/2022 7:40:46
-added this commit log file
